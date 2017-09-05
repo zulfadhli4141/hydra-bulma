@@ -1,0 +1,13 @@
+body {
+  background: #7fffd4;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+h6 {
+  background: url(http://placehold.it/200) #ff69b4;
+  color: #444;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLEksQ0FDRSx5QkFDQSxZLENBRUYsRSxDQUNFLFdBQ0EseUJBQ0EsNkMiLCJmaWxlIjoibWFpbi5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5IHtcbiAgYmFja2dyb3VuZC1jb2xvcjogYXF1YW1hcmluZTtcbiAgZGlzcGxheTogZmxleDsgfVxuXG5oNiB7XG4gIGNvbG9yOiAjNDQ0O1xuICBiYWNrZ3JvdW5kLWNvbG9yOiBob3RwaW5rO1xuICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoXCJodHRwOi8vcGxhY2Vob2xkLml0LzIwMFwiKTsgfVxuIl19 */

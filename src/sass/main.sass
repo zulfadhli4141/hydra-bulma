@@ -1,0 +1,54 @@
+@import ./bulma.sass
+@import ./font-awesome/scss/font-awesome.scss
+
+.navbar
+  background-color: #3273dc
+
+.navbar-brand > a
+  color: white
+
+.navbar-end > a
+  color: white
+
+.-avatar
+  position: relative
+  width: 150px
+  height: 150px
+  border-radius: 50%
+  overflow: hidden
+  margin: 0 auto
+
+  > .-avatar-icon
+    position: absolute
+    top: -20%
+    left: -50%
+    width: 300px
+    max-width: none
+
+.title > strong
+  font-weight: 700
+
+.card-header-title
+  justify-content: center
+
+.team-item
+  justify-content: center
+
+#map
+  width: 100%
+  height: 400px
+  background-color: grey
+
+.footer-item
+  display: flex
+  justify-content: center
+
+@media screen and (min-width: 1260px)
+  .container
+    max-width: 1140px
+    width: 1140px
+
+@media screen and (min-width: 1452px)
+  .container
+    max-width: 1140px
+    width: 1140px
